@@ -1,5 +1,9 @@
 # calculadora.c
 
+Desenvolvido em linguagem C utilizando a IDE Dev C++
+
+
+
 Calculadora desenvolvida para a Academia Capgemini.
 
 1ª Parte - Considere os seguintes critérios fictícios para desenvolver a calculadora de alcance de anúncio:
